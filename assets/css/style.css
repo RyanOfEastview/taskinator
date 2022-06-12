@@ -3,15 +3,15 @@
 }
 
 :root {
-  --primary: #b7c6f5a6;
-  --secondary: #f35005;
-  --tertiary: rgb(166, 166, 166);
+  --primary: #44e9ff;
+  --secondary: #497980;
+  --tertiary: rgb(192, 246, 253);
   --grey: #333;
   font-size: 62.5%;
 }
 
 body {
-  background: #eec7c7;
+  background: #ededed;
   color: var(--grey);
   margin: 0;
   padding: 0;
